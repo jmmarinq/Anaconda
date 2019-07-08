@@ -1,0 +1,46 @@
+Status: Estado del Fomulario
+P y V tomar: Procesado y Validado
+
+Clase de Matrícula: Tipo de Contribuyente
+E: Establecimiento
+C: Contribuyente
+
+Opción de Uso
+1: Inscripcion
+2: Modificacion de Datos
+3: Cierre
+
+Clase de Contribuyente
+1: Normal
+2: Constructor
+3: Ocasional
+4: Retenedor
+(Antes)
+Ahora todo es igual
+
+Fecha: 
+
+CC o Nit: Cedula o Nit del Contribuyente
+
+Fecha Creación del Formulario: Fecha en que se hace realiza el registro
+
+Pos: 
+
+Numero Formato: Identificador del Formulario
+
+Tipo Cancelcion: Cancelacion Total o Parcial
+Desactualizada
+
+Tipo Sociedad: Tipo de Sociedad 
+
+Direccion: Dirección del Contribuyente
+
+Codigo Actividad y Codigo CIUU: Codigo Actividad Principal
+
+Avisos
+
+Bases a Seguir 
+Declaraciones y Cartera
+
+
+
